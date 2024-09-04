@@ -44,7 +44,8 @@ First, click on `⭐️ star` in the right corner (to show some love 🫶💁‍
 
 Fork means you will create a copy of this repository in your own GitHub account. 💪
 
-<img width="902" alt="Screenshot 2023-06-14 at 12 57 42" src="https://github.com/quira-sh/Your-First-Contribution/assets/83458751/18a56d08-c99d-4b17-b019-1c3147e4a0f8">
+<img width="1418" alt="Screenshot 2024-09-05 at 01 50 20" src="https://github.com/user-attachments/assets/a1e08690-f2d3-43f6-92aa-c0d6070c324b">
+
 
 Now that you have the copy on your own account, let's download the entire project on your local computer!
 
